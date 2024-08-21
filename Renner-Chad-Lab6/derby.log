@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Dec 05 07:26:15 EST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-e240-4af9-00000f80f298 
+on database directory C:\Users\drago\OneDrive\Desktop\Java II smile\Renner-Chad-Lab6\MovieDistribution with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/drago/OneDrive/Desktop/Java%20II%20smile/Renner-Chad-Lab6/libs/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\drago\OneDrive\Desktop\Java II smile\Renner-Chad-Lab6
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
